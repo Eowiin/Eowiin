@@ -1,2 +1,8 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eowiin&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eowiin&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact)
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Eowiin&show_icons=true&theme=merko&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Eowiin&hide=html,css,java,shaderlab,kotlin,hlsl&theme=merko&langs_count=8&layout=compact">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Eowiin&show_icons=true&locale=en&layout=compact&theme=merko&line_height=0" />
+</p> 
